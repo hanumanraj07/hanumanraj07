@@ -40,3 +40,8 @@ VS Code
 → MERN app that combines GitHub, LeetCode, YouTube stats
 🔹 FuelGuard
 → Smart fuel monitoring & management system
+
+
+<p align="center">
+  <img src="https://github.com/Prathvikmehra/Prathvikmehra/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p
