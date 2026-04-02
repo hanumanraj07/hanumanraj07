@@ -186,12 +186,7 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
   </picture>
 </div>
 
-> ⚙️ **Setup:** Add this GitHub Action to your profile repo at `.github/workflows/pacman.yml` to auto-generate the Pac-Man graph:
-> ```yaml
->
-> ```
 
----
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
