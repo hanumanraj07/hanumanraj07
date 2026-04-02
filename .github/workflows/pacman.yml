@@ -9,14 +9,23 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
-      - name: Generate snake/pacman SVG
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hanumanraj07
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate Pac-Man SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: hanumanraj07
+          outputs: |
             dist/pacman-contribution-graph.svg?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/pacman-contribution-graph-dark.svg?color_snake=yellow&color_dots=#1a1b27,#1f3a5f,#2d5986,#3874ad,#4b91d4&palette=github-dark
 
@@ -25,5 +34,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
