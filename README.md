@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hanuman%20Rajpurohit&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hanuman%20Rajpurohit&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Profile Views & Trophies -->
 <p>
@@ -39,7 +39,7 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🔥 **FuelGuard** | AI-based fuel fraud detection via video analysis with heatmaps, PDF reports & payment integration | React · Node.js · FastAPI · MongoDB · OpenCV | [Demo](https://hanumanrajpurohit.netlify.app/) · [GitHub](#) · [YouTube](#) |
+| 🔥 **FuelGuard** | AI-based fuel fraud detection via video analysis with heatmaps, PDF reports & payment integration | React · Node.js · FastAPI · MongoDB · OpenCV | [Demo](#) · [GitHub](#) · [YouTube](#) |
 | 🧠 **Knowledge Twin** | Multimodal RAG assistant for text, image & video understanding with semantic search & OCR | React · Tailwind · FastAPI · Gemini API | [Demo](#) · [GitHub](#) · [YouTube](#) |
 | 📊 **Unified Dev Stats** | MERN dashboard aggregating developer stats across platforms with leaderboard & profile verification | React · Node.js · MongoDB · JWT | [Demo](#) · [GitHub](#) · [YouTube](#) |
 | 🛒 **Warm Bazaar** | Full-stack POS & inventory system for kirana shops with real-time stock, udhar tracking & analytics | React · Tailwind · Express · MongoDB | [Demo](#) · [GitHub](#) · [YouTube](#) |
@@ -61,7 +61,6 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -80,8 +79,6 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **AI / ML**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
@@ -153,10 +150,6 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanumanraj07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanumanraj07&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanumanraj07&theme=radical&hide_border=true" alt="Streak Stats" />
