@@ -33,16 +33,20 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
 
 <div align="center">
 
-| Project | Description | Stack | Links |
-|--------|-------------|-------|-------|
-| 🔥 **FuelGuard** | AI-based fuel fraud detection via video analysis with heatmaps, PDF reports & payment integration | React · Node.js · FastAPI · MongoDB · OpenCV | [Demo](#) · [GitHub](#) · [YouTube](#) |
-| 🧠 **Knowledge Twin** | Multimodal RAG assistant for text, image & video understanding with semantic search & OCR | React · Tailwind · FastAPI · Gemini API | [Demo](#) · [GitHub](#) · [YouTube](#) |
-| 📊 **Unified Dev Stats** | MERN dashboard aggregating developer stats across platforms with leaderboard & profile verification | React · Node.js · MongoDB · JWT | [Demo](#) · [GitHub](#) · [YouTube](#) |
-| 🛒 **Warm Bazaar** | Full-stack POS & inventory system for kirana shops with real-time stock, udhar tracking & analytics | React · Tailwind · Express · MongoDB | [Demo](#) · [GitHub](#) · [YouTube](#) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanumanrajpurohit.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanumanraj07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanumanraj07)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hanumanraj_07)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/hanumanraj07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Hanuman_rajpurohit)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/hanumanraj07)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hanumanraj07)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/hanumanraj07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hanuman_raj_07)
 
 </div>
 
@@ -128,26 +132,6 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 
 </details>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanumanrajpurohit.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanumanraj07)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanumanraj07)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hanumanraj_07)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/hanumanraj07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Hanuman_rajpurohit)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/hanumanraj07)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hanumanraj07)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/hanumanraj07)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hanuman_raj_07)
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -170,7 +154,7 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 
 ---
 
-## 🕹️ Pac-Man Contribution Graph
+## 🕹️ Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/hanumanraj07/hanumanraj07/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
