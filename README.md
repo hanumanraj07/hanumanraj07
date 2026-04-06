@@ -18,9 +18,13 @@
 
 ## 🧑‍💻 About Me
 
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1z7131fdVhlq50j5gQr4GHFlYaT46w4aP/view?usp=drive_link)
+
 👋 I'm a **Full Stack Developer** from **Ahmedabad, Gujarat 🇮🇳**, currently pursuing **B.E. in Computer Science** at Swaminarayan University (2025–29).
 
 I build AI-powered, scalable web applications using the **MERN stack + FastAPI**, with a strong focus on real-world impact — from fuel fraud detection to multimodal RAG assistants.
+
+
 
 <br/>
 
@@ -29,7 +33,6 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 💬 &nbsp;**Ask me about** — React · Node.js · MongoDB · FastAPI · REST APIs  
 📫 &nbsp;**Reach me at** — hanumanrajpurohit008@gmail.com  
 🌐 &nbsp;**Portfolio** — [hanumanrajpurohit.netlify.app](https://hanumanrajpurohit.netlify.app/)  
-⚡ &nbsp;**Fun fact** — Competed in 8+ national hackathons across IIT Madras, IIT Hyderabad, NITK Surathkal & more!
 
 ---
 
@@ -37,6 +40,7 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 
 <div align="center">
 
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)]([https://your-resume-link](https://drive.google.com/file/d/1z7131fdVhlq50j5gQr4GHFlYaT46w4aP/view?usp=drive_link))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanumanrajpurohit.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanumanraj07)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanumanraj07)
