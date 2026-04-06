@@ -10,7 +10,7 @@
 </p>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Apps+%F0%9F%9A%80;MERN+Stack+%2B+FastAPI+Developer;RAG+%7C+Computer+Vision+%7C+LLMs;8%2B+National+Hackathons+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Apps+%F0%9F%9A%80;MERN+Stack+%2B+REST+API+Developer;React+%7C+TailwindCSS+%7C+n8n;3%2B+National+Hackathons+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
