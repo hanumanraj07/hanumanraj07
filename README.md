@@ -18,8 +18,6 @@
 
 ## 🧑‍💻 About Me
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1z7131fdVhlq50j5gQr4GHFlYaT46w4aP/view?usp=drive_link)
-
 👋 I'm a **Full Stack Developer** from **Ahmedabad, Gujarat 🇮🇳**, currently pursuing **B.E. in Computer Science** at Swaminarayan University (2025–29).
 
 I build AI-powered, scalable web applications using the **MERN stack + FastAPI**, with a strong focus on real-world impact — from fuel fraud detection to multimodal RAG assistants.
@@ -41,16 +39,10 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1z7131fdVhlq50j5gQr4GHFlYaT46w4aP/view?usp=drive_link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanumanrajpurohit.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanumanraj07)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanumanraj07)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hanumanraj_07)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hanumanraj07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Hanuman_rajpurohit)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/hanumanraj07)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hanumanraj07)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hanumanraj07)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hanuman_raj_07)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hanumanraj07)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/hanumanraj07)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hanumanraj07)
 
 </div>
 
@@ -152,6 +144,8 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanumanraj07&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
+
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanumanraj07&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
