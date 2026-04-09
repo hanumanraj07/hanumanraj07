@@ -29,8 +29,6 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 🔭 &nbsp;**Currently building** — FuelGuard · Knowledge Twin · Warm Bazaar  
 🌱 &nbsp;**Currently learning** — DSA · React Native · LLM Fine-tuning · n8n AI Agents  
 💬 &nbsp;**Ask me about** — React · Node.js · MongoDB · FastAPI · REST APIs  
-📫 &nbsp;**Reach me at** — hanumanrajpurohit008@gmail.com  
-🌐 &nbsp;**Portfolio** — [hanumanrajpurohit.netlify.app](https://hanumanrajpurohit.netlify.app/)  
 
 ---
 
