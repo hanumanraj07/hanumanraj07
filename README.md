@@ -36,7 +36,7 @@ I build AI-powered, scalable web applications using the **MERN stack + FastAPI**
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1z7131fdVhlq50j5gQr4GHFlYaT46w4aP/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17CUulI7hXCw4jy7JIpOx3dBKcUZiNf54/view?usp=drive_link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hanuman_raj_07)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hanumanraj07)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/hanumanraj07)
